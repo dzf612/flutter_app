@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/dongzhifeng/project/flutter_app/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/dongzhifeng/project/flutter_app/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/dongzhifeng/project/flutter_app/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/dongzhifeng/project/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/dongzhifeng/project/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/dongzhifeng/project/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/dongzhifeng/project/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/dongzhifeng/project/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/dongzhifeng/project/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/dongzhifeng/project/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/dongzhifeng/project/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/dongzhifeng/project/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/dongzhifeng/project/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/dongzhifeng/project/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/dongzhifeng/project/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/dongzhifeng/project/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/dongzhifeng/project/flutter_app/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/dongzhifeng/project/flutter_app/ios/Flutter/Flutter.framework/Headers/Flutter.h
